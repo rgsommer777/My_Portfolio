@@ -20,3 +20,4 @@ Deployed the app to my GitHub repository:<p></p>
    Hosted Page: https://rgsommer777.github.io/My_Portfolio/
 
 # Screen Shots
+![](img/portfolioScreenshots.png)
