@@ -15,6 +15,6 @@ In Git Hub, I updated my profile information including bio, contact and other in
 I utilized the same navigation (nav section) based on Bootstrap Navbar for each page to keep the navigation consistent.
 
 Deployed the app to my GitHub repository:<p></p>
-    https://github.com/rgsommer777/Russ-Sommer-Portfolio <p></p>
-    https://rgsommer777.github.io/Russ-Sommer-Portfolio/
+   Repo Link: https://github.com/rgsommer777/My_Portfolio <p></p>
+   Hosted Page: https://rgsommer777.github.io/My_Portfolio/
 
