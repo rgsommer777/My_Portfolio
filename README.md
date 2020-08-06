@@ -16,5 +16,5 @@ I utilized the same navigation (nav section) based on Bootstrap Navbar for each 
 
 Deployed the app to my GitHub repository:<p></p>
    Repo Link: https://github.com/rgsommer777/My_Portfolio <p></p>
-   Hosted Page: 
+   Hosted Page: https://rgsommer777.github.io/My_Portfolio/
 
